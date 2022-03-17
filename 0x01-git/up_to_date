@@ -1,0 +1,6 @@
+commit -m
+git add .
+git status
+git log
+git switch
+git branch
