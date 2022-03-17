@@ -3,3 +3,4 @@ git pull
 git status
 git add .
 git push
+git switch
