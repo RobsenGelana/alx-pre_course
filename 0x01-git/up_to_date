@@ -4,3 +4,4 @@ git status
 git add .
 git push
 git switch
+git commit -am
