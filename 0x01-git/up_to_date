@@ -4,5 +4,13 @@ git status
 git add .
 git push
 git switch
+
+git log --oneline
+
 git commit -am
+
+
+git solve
+
 git knw
+
